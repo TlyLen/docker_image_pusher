@@ -1,2 +1,1 @@
-sonarqube:2025.2.0-developer
-docker.io/bitnami/postgresql:11.14.0-debian-10-r22
+sonarsource/sonar-scanner-cli:11.3
