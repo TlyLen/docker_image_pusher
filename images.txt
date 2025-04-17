@@ -1,4 +1,1 @@
-gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/git-init:v0.40.2
-docker.io/sonarsource/sonar-scanner-cli:4.6
-gcr.io/kaniko-project/executor:v1.5.1
-docker.io/library/bash:5.1.4
+sonarsource/sonar-scanner-cli:11
