@@ -1,1 +1,2 @@
-sonarsource/sonar-scanner-cli:11
+postgres:15-alpine
+redis:alpine
