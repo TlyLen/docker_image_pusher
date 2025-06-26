@@ -1,1 +1,1 @@
-jitesoft/kubectl:v1.28
+mcr.microsoft.com/dotnet/sdk:7.0
