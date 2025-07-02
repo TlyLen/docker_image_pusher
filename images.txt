@@ -1,1 +1,1 @@
-quay.io/argoproj/argocd:v2.14.9
+quay.io/argoprojlabs/argocd-image-updater:v0.16.0
